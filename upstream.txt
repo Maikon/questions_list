@@ -1,1 +1,7 @@
 Explain what the "upstream" remote is usually used for, in your own words:
+
+Answer:
+
+The "upstream" remote can be used for pulling any changes from a repository on Github which I've forked. By "forked", I mean I copied onto my account on Github. Once I've forked a repository on Github and then clone it onto my machine, if then I want to receive all the latest updates from that repo, in the event that the owner makes any, I need to set another remote called by convention "upstream", which then I can use to pull any changes made available. 
+
+command to use => git remote add upstream <address>
