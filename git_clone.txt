@@ -1,1 +1,5 @@
 Explain what git clone does, in your own words:
+
+Answer:
+
+git clone essentially "clones" a remote repository onto your local machine. In other words it creates a copy of the repository on Github, on your computer.
