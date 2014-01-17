@@ -1,1 +1,5 @@
 Explain what a branch is, in your own words:
+
+A branch as the name suggests, is essentially an extension of another branch. It's a copy of the directory you currently work on, on which you can make changes without those changes having any effect whatsoever on the parent branch. It's a very useful feature for experimenting and collaborating with others.
+
+i.e If I'm working on the main branch called master and I suddenly feel adventurous and want to add a new feature, the safest and logical thing to do would be to create a branch.
